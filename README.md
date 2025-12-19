@@ -29,7 +29,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=E-creator204&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=E-creator204&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ citas/frases 
 [![Cyber Quote](https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=merko)](https://github.com/hackelite01/github-readme-cyber-quotes)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
