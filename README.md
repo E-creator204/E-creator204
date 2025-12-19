@@ -1,5 +1,5 @@
-# 💫 About Me:
-👨‍💻 Cybersecurity Student | Infrastructure Security & Hardening Specialist<br>Estudiante de ciberseguridad con sólida experiencia práctica en implementación de infraestructuras seguras, hardening de sistemas y análisis de vulnerabilidades. Enfoque en seguridad de redes, administración de servidores y arquitecturas defensivas robustas.<br><br>
+# 👨‍💻 Cybersecurity Student | Infrastructure Security & Hardening Specialist:
+<br>Estudiante de ciberseguridad con sólida experiencia práctica en implementación de infraestructuras seguras, hardening de sistemas y análisis de vulnerabilidades. Enfoque en seguridad de redes, administración de servidores y arquitecturas defensivas robustas.<br><br>
 
 
 ## 🌐 Socials:
