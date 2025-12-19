@@ -30,6 +30,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=E-creator204&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ citas/frases 
-[![Cyber Quote](https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=merko)](https://github.com/hackelite01/github-readme-cyber-quotes)
+![Cybersecurity Quote](https://cybersecurity-quotes-api.vercel.app/api)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
