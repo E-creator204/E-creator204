@@ -31,6 +31,5 @@
 
 ### ✍️ Random Dev Quote
 [![Cyber Quote](https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=merko)](https://github.com/hackelite01/github-readme-cyber-quotes)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
