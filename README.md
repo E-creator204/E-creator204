@@ -24,7 +24,7 @@
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-# 📊 GitHub Stats:
+# 📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=E-creator204&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=E-creator204&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=E-creator204&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
