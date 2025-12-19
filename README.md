@@ -1,12 +1,12 @@
 # 💫 About Me:
-👨‍💻 Cybersecurity Student | Infrastructure Security & Hardening Specialist<br>Estudiante de ciberseguridad con sólida experiencia práctica en implementación de infraestructuras seguras, hardening de sistemas y análisis de vulnerabilidades. Enfoque en seguridad de redes, administración de servidores y arquitecturas defensivas robustas.<br><br>⚙️ Stack técnico:<br>Linux AlmaLinux Ubuntu Server Packet Tracer Active Directory OpenVPN IPsec WHM/cPanel Nginx CSF/LFD Nessus Metasploit Wireshark Nmap SQLite Bash Firewall Management
+👨‍💻 Cybersecurity Student | Infrastructure Security & Hardening Specialist<br>Estudiante de ciberseguridad con sólida experiencia práctica en implementación de infraestructuras seguras, hardening de sistemas y análisis de vulnerabilidades. Enfoque en seguridad de redes, administración de servidores y arquitecturas defensivas robustas.<br><br>
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-vasquez-198b2a247) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dante.zsh204@gmail.com) 
 
-# 💻 Tech Stack:
+# ⚙️ Stack técnico:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-0F4266?style=for-the-badge&logo=almalinux&logoColor=white)
